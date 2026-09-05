@@ -13,8 +13,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
