@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0202-happy-number) |
 | [3870-count-commas-in-range](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3870-count-commas-in-range) |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1763-longest-nice-substring) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
