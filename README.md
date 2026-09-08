@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0168-excel-sheet-column-title) |
 | [0940-distinct-subsequences-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
