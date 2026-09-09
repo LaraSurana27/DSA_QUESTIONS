@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0168-excel-sheet-column-title) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [3903-smallest-stable-index-i](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
