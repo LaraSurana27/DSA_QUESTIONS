@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0202-happy-number) |
 | [3870-count-commas-in-range](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3871-count-commas-in-range-ii) |
 ## String
 |  |
 | ------- |
