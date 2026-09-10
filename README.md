@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0202-happy-number](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0002-add-two-numbers) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
