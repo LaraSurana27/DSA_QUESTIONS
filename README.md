@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0202-happy-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3870-count-commas-in-range](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0014-longest-common-prefix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3903-smallest-stable-index-i) |
