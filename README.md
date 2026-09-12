@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3904-smallest-stable-index-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +117,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
