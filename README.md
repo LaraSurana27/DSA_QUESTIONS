@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0014-longest-common-prefix) |
+| [0835-image-overlap](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0835-image-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
