@@ -101,14 +101,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0836-rectangle-overlap) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
