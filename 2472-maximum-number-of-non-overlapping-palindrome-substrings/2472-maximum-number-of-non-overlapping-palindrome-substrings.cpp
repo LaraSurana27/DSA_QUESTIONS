@@ -57,7 +57,7 @@ public:
 */
 
 // grredy+dp
-
+/*
 class Solution {
 public:
     int maxPalindromes(string s, int k) {
@@ -83,5 +83,33 @@ public:
         }
         
         return dp[n];
+    }
+};
+*/
+
+
+// pure greedy
+class Solution {
+public:
+    int maxPalindromes(string s, int k) {
+        int n = s.size();
+        int ans = 0;
+        int end = -1;   // last selected palindrome ka right index
+
+        for (int i = 0; i < n; i++) {
+            for (int lo : {i - 1, i}) {   // i-1 -> even center, i -> odd center
+                int l = lo, r = i;
+                while (l >= 0 && r < n && s[l] == s[r]) {
+                    if (r - l + 1 >= k && l > end) {
+                        ans++;
+                        end = r;   // overlap avoid karne ke liye boundary update
+                        break;
+                    }
+                    l--;
+                    r++;
+                }
+            }
+        }
+        return ans;
     }
 };
