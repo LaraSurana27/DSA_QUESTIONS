@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0168-excel-sheet-column-title) |
 | [0940-distinct-subsequences-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1763-longest-nice-substring](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1763-longest-nice-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0202-happy-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1763-longest-nice-substring](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1763-longest-nice-substring) |
 | [2094-finding-3-digit-even-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
