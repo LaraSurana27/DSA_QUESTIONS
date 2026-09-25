@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0168-excel-sheet-column-title) |
 | [0940-distinct-subsequences-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1763-longest-nice-substring](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1763-longest-nice-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0202-happy-number) |
+| [1096-brace-expansion-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -185,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/LaraSurana27/DSA_QUESTIONS/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
