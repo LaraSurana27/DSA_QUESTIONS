@@ -6,8 +6,7 @@ public:
 
         for(auto &vec : knowledge)
         {
-            //vec[0], vec[1]
-            mp[vec[0]] = vec[1];
+            mp[vec[0]] = vec[1]; // save key value pairs in map for easy retrieval
         }
 
         string result = "";
@@ -19,8 +18,8 @@ public:
             {
                 int j = s.find(")", i+1);
                 string temp = s.substr(i+1, j-i-1);
-                result += mp.count(temp) ? mp[temp] : "?";
-                i = j;
+                result += mp.count(temp) ? mp[temp] : "?"; // check for corresponding value of the key found in temp, if it exists in map then add it in result else add ?
+                i = j; // start from where we last encountered closing bracket
             }
             else
             {
